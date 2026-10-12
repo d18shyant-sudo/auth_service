@@ -1,5 +1,6 @@
 .env
 .env.*
-.pyc
 *.ini
 *.toml
+__pycache__/
+*.pyc
